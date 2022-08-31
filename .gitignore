@@ -1,0 +1,12 @@
+
+plugged/vim-tmux-navigator/
+plugged/vim-airline/
+plugged/vim-airline-themes/
+plugged/onedark.vim/
+plugged/nerdtree/
+plugged/indentLine/
+plugged/emmet-vim/
+plugged/coc.nvim/
+plugged/auto-pairs/
+old_init.vim
+broke_init.vim
